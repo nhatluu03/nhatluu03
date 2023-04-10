@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Luu Quoc Nhat. I am currently pursuing my major - Machine Learning at RMIT University. My interested topics are: Computer Vision and Natural Language.
+My name is Luu Quoc Nhat. I am currently pursuing my major - Machine Learning at RMIT University. My interested topics is Natural Language Processing (NLP).
 <br>
 ## 📫 Reach me via: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) 
